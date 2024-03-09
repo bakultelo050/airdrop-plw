@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "airdrop-plw": "^1.1.0"
+  },
+  "name": "@bakultelo1/airdrop-plw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bakultelo050/airdrop-plw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakultelo050/airdrop-plw/issues"
+  },
+  "homepage": "https://github.com/bakultelo050/airdrop-plw#readme",
+  "description": ""
+}
